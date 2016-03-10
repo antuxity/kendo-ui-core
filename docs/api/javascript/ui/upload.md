@@ -953,7 +953,7 @@ List of the files that will be uploaded. File fields:
 *   size - the file size in bytes (null if not available)
 *   uid - the unique identifier of the file or batch of files
 
-##### data `Object`
+##### e.data `Object`
 
 Optional object that will be
 sent to the save handler in the form of key/value pairs.
